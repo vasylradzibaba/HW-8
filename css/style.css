@@ -10,21 +10,21 @@
  .yellow {
      color: yellow;
  }
- p:nth-child(3) {
-     color: grey;
+ #greycol {
+    color: grey;
  }
- .pink {
+ .monday {
     background-color: pink;
  }
- .red {
+ .tuesday {
     background-color: red;
  }
- .blue {
+ .wednesday {
     background-color: blue;
  }
- .green {
+ .thursday {
     background-color: green;
  }
-.brovn {
+.friday {
     background-color: brown;
 }
